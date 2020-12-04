@@ -1,9 +1,9 @@
 # Horiseon-Website_Code-Refactor_HS-H1
 Company website for Horiseon featuring increased accessibility and updated code 
 
-URL to deployed application
+https://hannahstarcevich.github.io/Horiseon-Website_Code-Refactor_HS-H1/
 
-URL to GitHub repo
+https://github.com/HannahStarcevich/Horiseon-Website_Code-Refactor_HS-H1.git
 
 Latest code refactor completed 12-3-20 by Hannah Starcevich.
 
