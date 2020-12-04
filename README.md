@@ -3,7 +3,7 @@ Company website for Horiseon featuring increased accessibility and updated code
 
 https://hannahstarcevich.github.io/Horiseon-Website_Code-Refactor_HS-H1/
 
-https://github.com/HannahStarcevich/Horiseon-Website_Code-Refactor_HS-H1.git
+https://github.com/HannahStarcevich/Horiseon-Website_Code-Refactor_HS-H1
 
 Latest code refactor completed 12-3-20 by Hannah Starcevich.
 
